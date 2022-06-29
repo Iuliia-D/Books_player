@@ -4,6 +4,8 @@
 # Ada Library Information
 *.ali
 
+*.mp3
+!internal/data/*.mp3
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos
