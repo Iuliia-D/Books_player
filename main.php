@@ -91,7 +91,7 @@ include 'header.php';
             <div class="card-body">
                 <h5 class="card-title">Дэн Симмонс</h5>
                 <p class="card-text"> — американский писатель-фантаст, педагог.</p>
-                <a href="simons_playlist.php" class="btn btn-primary">Плейлист</a>
+                <a href="simmons_playlist.php" class="btn btn-primary">Плейлист</a>
             </div>
             </div>
         </div>
